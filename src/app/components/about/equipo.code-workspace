@@ -1,0 +1,27 @@
+{
+    "equipo": [
+        {
+            "0":{
+                "frase": "qwerqweqweqw",
+                "nombre": "Jonathan S",
+                "subtitulo": "Desarrollador",
+                "twitter":"@Jonathan",
+                "imgUrl": "gs://civic-badge-254923.appspot.com/team-1.jpg"
+            },           
+            "1":{
+                "frase": "qwerty",
+                "nombre": "Melisa",
+                "subtitulo": "Desarrolladora",
+                "twitter":"@Melisa",
+                "imgUrl": "gs://civic-badge-254923.appspot.com/team-2.jpg"
+            },
+            "2":{
+                "frase": "qwerqweqweqw",
+                "nombre": "Angel G",
+                "subtitulo": "Desarrollador",
+                "twitter":"@Angel_gonzales",
+                "imgUrl": "gs://civic-badge-254923.appspot.com/team-3.jpg"
+                }
+        }
+    ]   
+}
